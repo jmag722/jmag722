@@ -2,7 +2,7 @@
 - 👀 I’m interested in numerical computing
 - 🌱 I’m currently learning fortran
 - 💞️ I’m looking to collaborate on CFD projects
-- 📫 How to reach me ...
+- 📫 linkedin.com/in/jmag93
 
 <!---
 jmag722/jmag722 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
