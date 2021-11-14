@@ -1,8 +1,8 @@
-fluids :ocean:
-aerodynamics :airplane:
-propulsion :rocket:
-numerical computing :abacus:
-@jmag722
+fluids :ocean:\
+aerodynamics :airplane:\
+propulsion :rocket:\
+numerical computing :abacus:\
+@jmag722\
 linkedin.com/in/jmag93
 
 <!---
