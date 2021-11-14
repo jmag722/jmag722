@@ -1,8 +1,8 @@
 fluids :ocean:\
+heat transfer :fire:\
 aerodynamics :airplane:\
 propulsion :rocket:\
 numerical computing :abacus:\
-@jmag722\
 [Linkedin](https://linkedin.com/in/jmag93)
 
 <!---
