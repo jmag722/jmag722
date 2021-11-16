@@ -1,5 +1,4 @@
 fluids :ocean:\
-heat transfer :fire:\
 aerodynamics :airplane:\
 propulsion :rocket:\
 numerical computing :abacus:\
