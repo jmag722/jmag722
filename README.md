@@ -2,7 +2,7 @@ fluids :ocean:\
 aerodynamics :airplane:\
 propulsion :rocket:\
 numerical computing :abacus:\
-[linkedin.com/jaredmagnusson](https://linkedin.com/in/jaredmagnusson)
+[linkedin.com/in/jaredmagnusson](https://linkedin.com/in/jaredmagnusson)
 
 <!---
 jmag722/jmag722 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
